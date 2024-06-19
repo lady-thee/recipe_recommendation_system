@@ -1,3 +1,5 @@
+## Introduction to Recipe Recommendation System
+
 The Recipe Recommendation System is an innovative platform designed to help users maximize their culinary creativity by suggesting recipes based on the ingredients they have available. Users can also contribute by uploading their own recipes, enriching the community's collective knowledge. Additionally, the platform offers personalized meal recommendations for breakfast, lunch, and dinner.
 
 **Features**
@@ -43,7 +45,8 @@ Checkout the database schema on here: https://drawsql.app/teams/the-a-team-9/dia
 
 **Table of Contents**
 
-1. [Docs](https://www.notion.so/8ad345e141a14cae97931986b7eab7cd?pvs=21)
+1. [Documentation](https://www.notion.so/8ad345e141a14cae97931986b7eab7cd?pvs=21)
+
 
 ## Description of Framework
 
